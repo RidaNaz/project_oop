@@ -1,9 +1,12 @@
 {
-  "name": "project_oop",
-  "version": "1.0.0",
+  "name": "project_oop-rida",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "type": "module",
+  "bin": {
+    "project_oop-rida" : "./oop.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
